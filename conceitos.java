@@ -1,7 +1,7 @@
-import  java.util.ArrayList;
+import java.util.ArrayList;
 
-public class Main {
-    public static void main(String[] args) {
+public class conceitos {
+    public static void conceitos(String[] args) {
 
         // comando copilar: javac Main.java
 
@@ -22,7 +22,7 @@ public class Main {
 
         byte b = 100;
         short s = 10000;
-       // int i = 100000;
+        // int i = 100000;
         long l = 10000L;
         float f = 10.5f;
         double d = 20.5;
