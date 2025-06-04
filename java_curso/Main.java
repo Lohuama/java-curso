@@ -4,7 +4,9 @@ public class Main {
     public static void main(String[] args){
         Carro meuCarro = new Sandero();
         Carro meuCarro2 = new Mobi();
-        SerVivo meuSer =
+
+        SerVivo meuSer = new Humano();
+        meuSer.Respirar();
 
         meuCarro2.acelerar();
         meuCarro.acelerar();
