@@ -8,4 +8,9 @@ public class Humano extends SerVivo{
         super( 42);
         this.nome = "Lohuama";
     }
+
+    @Override
+    public void Respirar() {
+        System.out.println("heihei");
+    }
 }

@@ -10,6 +10,25 @@ public class Main {
 
         meuCarro2.acelerar();
         meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
     }
 }
 
